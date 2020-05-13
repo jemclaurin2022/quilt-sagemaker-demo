@@ -1,0 +1,22 @@
+Machine Learning Methodology
+
+Data Acquistion
+   library selection
+   load data into dataframes
+   explore data
+   data transformations
+
+Model Development
+   ml methods
+      regression
+      classification
+      deep learning
+   split data into train/test
+   build model
+   predict using the model(s)
+
+Evaluate ML Algorithm
+   Accuracy
+   Precision
+   Mean Absolute Error (MAE)
+   Root Mean Squared Error (RMSE)
